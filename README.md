@@ -2,6 +2,9 @@
 
 This repository holds Tool, Skill and Plugin definitions for Mattt's personal Elastic Agent Builder usage.
 
+## Agents
+Agents are defined in folders that contain YAML and Markdown files.
+
 ## Tools
 Tools are defined in YAML.
 
