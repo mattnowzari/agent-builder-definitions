@@ -1,0 +1,19 @@
+id: code-helper
+name: Code Helper
+description: "A coding assistant that helps with development tasks, code review, debugging, and documentation — with access to GitHub and library documentation via connectors"
+instructions: ./code-helper.md
+tool_ids:
+  - platform.core.search
+  - platform.core.list_indices
+  - platform.core.get_index_mapping
+  - platform.core.get_document_by_id
+skill_ids: []
+plugin_ids: []
+enable_elastic_capabilities: true
+visibility: public
+avatar_color: "#1A73E8"
+avatar_symbol: CH
+labels:
+  - coding
+  - developer-tools
+  - github
