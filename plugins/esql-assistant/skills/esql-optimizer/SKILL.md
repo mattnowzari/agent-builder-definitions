@@ -1,5 +1,5 @@
 ---
-id: esql-optimizer
+id: esqloptimizer
 name: "ESQL Optimizer"
 description: "Reviews ES|QL queries and suggests performance and correctness improvements"
 ---
