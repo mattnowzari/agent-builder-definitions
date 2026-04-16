@@ -1,6 +1,6 @@
 ---
 id: esql-query-writer
-name: "ES|QL Query Writer"
+name: "ESQL Query Writer"
 description: "Translates natural language questions into ES|QL queries"
 ---
 
