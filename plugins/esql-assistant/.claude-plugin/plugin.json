@@ -1,5 +1,5 @@
 {
-  "name": "ES|QL Assistant",
+  "name": "ESQL Assistant",
   "version": "1.0.0",
   "description": "A plugin that helps users write, understand, and optimize ES|QL queries for Elasticsearch",
   "author": {
