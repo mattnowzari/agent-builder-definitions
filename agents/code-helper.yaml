@@ -7,7 +7,15 @@ tool_ids:
   - platform.core.list_indices
   - platform.core.get_index_mapping
   - platform.core.get_document_by_id
-skill_ids: []
+  - platform.core.sml_search
+  - platform.core.sml_attach
+  - platform.workflows.get_examples
+  - platform.core.execute_connector_sub_action
+  - platform.core.create_visualization
+skill_ids:
+  - slack-and-github
+  - graph-creation
+  - visualization-creation
 plugin_ids: []
 enable_elastic_capabilities: true
 visibility: public
